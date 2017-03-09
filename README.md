@@ -2,6 +2,6 @@
 The broadcast system for holding huge activity.
 
 Build Setup:
->npm install
->npm run dev
->npm run build
+-- npm install
+-- npm run dev
+-- npm run build
