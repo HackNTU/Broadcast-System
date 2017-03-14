@@ -1,6 +1,8 @@
 import Vue from 'vue'
-import Customer from './Customer.vue'
+
+import Minor from './Minor.vue'
+
 
 const app = new Vue({
-  render: h => h(Customer)
+  render: h => h(Minor)
 }).$mount('#app')
